@@ -1,0 +1,21 @@
+div.blog {
+  color: gray;
+  font-weight: bold;
+  font-family: monospace;
+  width: 600px;
+  float: left;
+}
+
+div.blog2 {
+  color: gray;
+  font-weight: bold;
+  font-family: monospace;
+  width: 600px;
+  float: left;
+}
+
+div.about {
+  font-family: fantasy;
+  text-align: center;
+  padding: 300px;
+}
