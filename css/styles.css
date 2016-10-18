@@ -1,9 +1,10 @@
+
+
 div.blog {
   color: gray;
   font-weight: bold;
   font-family: monospace;
   width: 600px;
-  float: left;
 }
 
 div.blog2 {
@@ -11,11 +12,28 @@ div.blog2 {
   font-weight: bold;
   font-family: monospace;
   width: 600px;
-  float: left;
 }
 
 div.about {
-  font-family: fantasy;
-  text-align: center;
-  padding: 300px;
+  color: gray;
+  font-weight: bold;
+  font-family: monospace;
+  width: 900px;
+
+}
+
+.center {
+  margin: auto;
+}
+
+
+
+.light-theme {
+  background-color: white;
+  color: black;
+}
+
+.dark-theme {
+  background-color: black;
+  color: white;
 }
